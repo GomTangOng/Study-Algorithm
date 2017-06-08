@@ -13,45 +13,27 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\링버퍼">
-      <UniqueIdentifier>{5fbd9f94-a71a-4f94-99be-d38d51c28e74}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="헤더 파일\링버퍼">
-      <UniqueIdentifier>{14e9fff9-7ea5-42c0-b56a-ad113f0aea82}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\1003">
-      <UniqueIdentifier>{05918ec0-7b57-4adf-b26c-baef9a4ab0e2}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\1004">
-      <UniqueIdentifier>{b8a8d016-75e1-4287-8c4f-af9278552cee}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\1005">
-      <UniqueIdentifier>{bc347e21-ee4c-4819-b7bc-8ced870cd1f7}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\Funtion_Functor_Lambda">
-      <UniqueIdentifier>{32e6553f-a2d0-4cb9-b055-dfe6dee32609}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\1010">
-      <UniqueIdentifier>{9f3f01a9-3edd-456b-881a-f0505b060a8d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\1002">
-      <UniqueIdentifier>{ad36a547-a8ca-4d3f-bbe4-34549060c1f7}</UniqueIdentifier>
+    <Filter Include="소스 파일\TEST">
+      <UniqueIdentifier>{7ed93e4a-f678-4c5c-83c5-68bfb5bb44ad}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Function_Functor_Lambda.cpp">
-      <Filter>소스 파일\Funtion_Functor_Lambda</Filter>
-    </ClCompile>
-    <ClCompile Include="1010.cpp">
-      <Filter>소스 파일\1010</Filter>
-    </ClCompile>
-    <ClCompile Include="1002.cpp">
-      <Filter>소스 파일\1002</Filter>
-    </ClCompile>
     <ClCompile Include="1003.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="1004.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1002.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1010.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Function_Functor_Lambda.cpp">
+      <Filter>소스 파일\TEST</Filter>
+    </ClCompile>
+    <ClCompile Include="2261.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -4,12 +4,12 @@ using namespace std;
 
 int main()
 {
-	int a, b;
+	char ch[100];
 
-	scanf("%d", &a);
-	scanf("%d", &b);
-
-	cout << a + b << endl;
+	while (fgets(ch, 100, stdin))
+	{
+		printf("%s", ch);
+	}
 
 	return 0;
 }

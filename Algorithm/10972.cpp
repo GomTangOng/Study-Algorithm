@@ -20,7 +20,24 @@ public :
 		j = m_len - 1;
 		while (i < j)
 		{
-			Swap(&m_nums[i - 1], &m_nums[j]);
+			Swap(&m_nums[i], &m_nums[j]);
+			i++; j--;
+		}
+		return true;
+	}
+
+	bool Prev()
+	{
+		int t = m_len - 1;
+		int i = t, j = t;
+		while (m_nums[i - 1] < m_nums[i] && i > 0) i--;
+		if (i <= 0) return false;
+		while (m_nums[i - 1] < m_nums[j]) j--;
+		Swap(&m_nums[i - 1], &m_nums[j]);
+		j = m_len - 1;
+		while (i < j)
+		{
+			Swap(&m_nums[i], &m_nums[j]);
 			i++; j--;
 		}
 		return true;
@@ -57,7 +74,7 @@ int main()
 		scanf("%d", &data);
 		p.Push_back(data);
 	}
-	if (p.Next())
+	if (p.Prev())
 		p.Print();
 	else
 		cout << err << endl;

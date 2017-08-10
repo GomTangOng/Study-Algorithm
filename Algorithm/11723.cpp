@@ -34,7 +34,7 @@ int main()
 		else if (!strcmp(str, "remove"))
 			set.remove(n);
 		else if (!strcmp(str, "check"))
-			cout << set.check(n) << endl;
+			printf("%d\n", set.check(n));
 		else if (!strcmp(str, "toggle"))
 			set.toggle(n);
 		else if (!strcmp(str, "all"))
@@ -48,13 +48,13 @@ int main()
 
 void CSet::add(int x)
 {
-	if (!check(x))
+	//if (!check(x))
 		m_data = m_data | (1 << x);
 }
 
 void CSet::remove(int x)
 {
-	if (check(x))
+	//if (check(x))
 		m_data = m_data & ~(1 << x);
 }
 int CSet::check(int x)

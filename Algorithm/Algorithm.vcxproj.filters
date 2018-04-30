@@ -16,11 +16,17 @@
     <Filter Include="소스 파일\TEST">
       <UniqueIdentifier>{7ed93e4a-f678-4c5c-83c5-68bfb5bb44ad}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\풀고있는문제">
+    <Filter Include="소스 파일\Baekjoon">
+      <UniqueIdentifier>{7ef31fe8-03a0-48bb-9106-87ae713308f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Baekjoon\완료한문제">
+      <UniqueIdentifier>{886286ce-6f92-4cf3-aaa2-53755f823e61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Baekjoon\풀고있는문제">
       <UniqueIdentifier>{ce3a338a-32a1-4c34-88db-6dc4a90b9788}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\완료한문제">
-      <UniqueIdentifier>{886286ce-6f92-4cf3-aaa2-53755f823e61}</UniqueIdentifier>
+    <Filter Include="소스 파일\Study">
+      <UniqueIdentifier>{4dd49fa6-df30-446f-a784-3f2f58128559}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -28,84 +34,85 @@
       <Filter>소스 파일\TEST</Filter>
     </ClCompile>
     <ClCompile Include="1002.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="1003.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="1004.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="1010.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="1924.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="2261.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="2438.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="2439.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="2440.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="2441.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="2442.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="2444.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="2445.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="2446.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="2558.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="2741.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="8393.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="10818.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="10950.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="10951.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="11718.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="11719.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="11720.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="11721.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="2522.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="10991.cpp">
-      <Filter>소스 파일\완료한문제</Filter>
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="11723.cpp">
+<<<<<<< HEAD
       <Filter>소스 파일\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="test01.cpp">
@@ -116,6 +123,21 @@
     </ClCompile>
     <ClCompile Include="1436.cpp">
       <Filter>소스 파일\풀고있는문제</Filter>
+=======
+      <Filter>소스 파일\Baekjoon\완료한문제</Filter>
+    </ClCompile>
+    <ClCompile Include="10972.cpp">
+      <Filter>소스 파일\Baekjoon\풀고있는문제</Filter>
+    </ClCompile>
+    <ClCompile Include="10973.cpp">
+      <Filter>소스 파일\Baekjoon\풀고있는문제</Filter>
+    </ClCompile>
+    <ClCompile Include="10974.cpp">
+      <Filter>소스 파일\Baekjoon\풀고있는문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BitonicSort.cpp">
+      <Filter>소스 파일\Study</Filter>
+>>>>>>> 1a93e12bce5457d9c1aab6ed53ab99d24578d8c5
     </ClCompile>
   </ItemGroup>
 </Project>

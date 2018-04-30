@@ -112,6 +112,9 @@
       <Filter>소스 파일\TEST</Filter>
     </ClCompile>
     <ClCompile Include="2346.cpp">
+      <Filter>소스 파일\완료한문제</Filter>
+    </ClCompile>
+    <ClCompile Include="1436.cpp">
       <Filter>소스 파일\풀고있는문제</Filter>
     </ClCompile>
   </ItemGroup>

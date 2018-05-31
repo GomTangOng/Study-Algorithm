@@ -4,7 +4,7 @@
 #include <cstdio>
 using namespace std;
 
-int f[21]{ 1 };
+long long f[21]{ 1 };
 bool b[21];
 int main()
 {
@@ -19,7 +19,7 @@ int main()
 		
 	if (p == 1)
 	{
-		int k;
+		long long k;
 		vector<int> a(n);
 		cin >> k;
 		

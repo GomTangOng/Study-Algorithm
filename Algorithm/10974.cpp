@@ -47,7 +47,7 @@ public:
 	{
 		for (int i = 0; i < m_len; ++i)
 			printf("%d ", m_nums[i]);
-		printf("/n");
+		printf("\n");
 	}
 
 	void Swap(int *a, int *b)

@@ -109,12 +109,24 @@
       <Filter>소스 파일\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="10972.cpp">
-      <Filter>소스 파일\풀고있는문제</Filter>
+      <Filter>소스 파일\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="10973.cpp">
-      <Filter>소스 파일\풀고있는문제</Filter>
+      <Filter>소스 파일\완료한문제</Filter>
     </ClCompile>
     <ClCompile Include="10974.cpp">
+      <Filter>소스 파일\완료한문제</Filter>
+    </ClCompile>
+    <ClCompile Include="3103.cpp">
+      <Filter>소스 파일\풀고있는문제</Filter>
+    </ClCompile>
+    <ClCompile Include="1722.cpp">
+      <Filter>소스 파일\풀고있는문제</Filter>
+    </ClCompile>
+    <ClCompile Include="template_test.cpp">
+      <Filter>소스 파일\풀고있는문제</Filter>
+    </ClCompile>
+    <ClCompile Include="1476.cpp">
       <Filter>소스 파일\풀고있는문제</Filter>
     </ClCompile>
   </ItemGroup>
